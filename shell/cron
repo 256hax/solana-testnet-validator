@@ -1,0 +1,11 @@
+# (The # mark at the beginning of a line indicates a comment line)
+# +------------ Minutes (0 - 59)
+# | +---------- Hours (0 - 23)
+# | | +-------- Day (1 - 31)
+# | | | +------ Month (1 - 12)
+# | | | | +---- Day of week (0 - 6) (Sunday=0)
+# | | | | |
+# * * * * * Excution command
+
+# Testnet airdrop
+0 10,22 * * * <Airdrop_File_Path>
