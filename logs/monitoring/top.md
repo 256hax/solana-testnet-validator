@@ -4,6 +4,13 @@ $ top
 ```
 
 ## Logs
+### Jan.24.2024
+top - 12:44:35 up 49 days, 22:32,  1 user,  load average: 25.64, 28.29, 28.64
+Tasks: 395 total,   1 running, 394 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 51.2 us,  9.3 sy,  0.0 ni, 37.9 id,  1.1 wa,  0.0 hi,  0.5 si,  0.1 st
+MiB Mem : 257759.5 total,   8110.7 free,  30416.1 used, 219232.8 buff/cache
+MiB Swap: 259931.0 total, 259907.2 free,     23.8 used. 225090.5 avail Mem
+
 ### Jan.01.2024
 top - 07:52:26 up 26 days, 17:39,  1 user,  load average: 19.48, 23.10, 23.69
 Tasks: 390 total,   1 running, 389 sleeping,   0 stopped,   0 zombie
