@@ -8,4 +8,4 @@
 # * * * * * Excution command
 
 # Airdrop on Testnet
-0 10,22 * * * <Airdrop_File_Path> > /dev/null 2>&1
+0 10,22 * * * sh <Airdrop_File_Path> > /dev/null 2>&1
