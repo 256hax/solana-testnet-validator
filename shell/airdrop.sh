@@ -1,15 +1,13 @@
 #!/bin/bash
 
-# Set testnet
-network="testnet"
-solana config set --url $network
+export PATH="/home/solv/.local/share/solana/install/active_release/bin:$PATH"
 
-# Set Accounts for airdrop
-# 8XR... Validator Account
-# CJs... Backup Account
+# Set testnet
+#network="testnet"
+#solana config set --url $network
+
 accounts='
 8XRkWmiF672BvqLvkNnt8ggaywyTQxoH3pyWAWtEGzzp
-CJsPSQtV28CJiRt8XThuG5Ei1cX2fH5GcPoZYyM26gzm
 '
 
 # Run airdrop
